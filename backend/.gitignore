@@ -1,4 +1,5 @@
 # prod
+node_modules
 dist/
 
 # dev
